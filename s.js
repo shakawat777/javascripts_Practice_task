@@ -13,4 +13,12 @@ function example() {
 }
 example(1, 2, 3);
 */
+/*
+const str1 = "Life is beautyfull without love";
+const str2 = str1.slice(5,-1);
+console.log(str2);
+*/
+const animals = ["ant", "bison", "camel", "duck", "elephant"];
+
+console.log(animals.slice(2));
 
